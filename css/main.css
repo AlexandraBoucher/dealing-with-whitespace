@@ -14,6 +14,7 @@ html {
 img {
   width: 100%;
 }
+
 article header {
   margin-top: 1.5em;
 }
@@ -53,7 +54,6 @@ blockquote {
 .quote {
   font-size: 1.125rem;
   margin-top: 0;
-
 }
 
 article ol {
